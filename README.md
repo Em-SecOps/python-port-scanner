@@ -14,7 +14,7 @@ A simple, lightweight, and efficient Command Line Interface (CLI) port scanner w
 Since the script uses only built-in Python modules, you just need to clone the repository:
 
 ```bash
-git clone https://github.com
+git clone https://github.com/Em-SecOps/python-port-scanner
 cd python-port-scanner
 ```
 
